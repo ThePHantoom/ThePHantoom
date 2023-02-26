@@ -1,7 +1,7 @@
 
 <h1 align="center"><em> Hello , I'm Amir <img src="https://cdn.discordapp.com/emojis/683122759680655413.gif?size=96&quality=lossless" width="50"></h1>
 
-  <p><img src="https://cdn.discordapp.com/emojis/965364627364020274.gif?size=96&quality=lossless" width="25"> I'm Programmer and Discord Bot Developer - I Love Learning <b>Web Development</b> </br>
+  <p><img src="https://cdn.discordapp.com/emojis/965364627364020274.gif?size=96&quality=lossless" width="25"> I'm Programmer and Discord Bot Developer</b> </br>
 </em></p>
 
 <table>
